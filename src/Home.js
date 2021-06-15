@@ -1,7 +1,9 @@
 const Home = () => {
   return (
     <div className="home">
-      <h2>Homepage</h2>
+      <h2 style={{
+        textAlign: 'center'
+      }}>Homepage</h2>
     </div>
   );
 };
